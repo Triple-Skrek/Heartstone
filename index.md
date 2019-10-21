@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -7,19 +7,20 @@
     <link href="styles/style.css" rel="stylesheet" type="text/css">
   </head>
   <body>
-    <h1>Heartstone is pretty neat</h1>
-    <img src="images/Heartstone logo.jpg" alt="The Heartstone logo">
+    <h1>Hearthstone is pretty neat</h1>
+    <img src="images/Heartstone logo.jpg" alt="The Hearthstone logo">
 
-    <p>At Mozilla, we’re a global community of</p>
+    <p>Hearthstone is an online cardgame where people build decks too fight other players, focused on strategy and managing things like</p>
 
     <ul> <!-- changed to list in the tutorial -->
-      <li>technologists</li>
-      <li>thinkers</li>
-      <li>builders</li>
+      <li>Mana</li>
+      <li>Health</li>
+      <li>Board control</li>
+      <li>Tempo</li>
     </ul>
 
-    <p>working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.</p>
+    <p>The game has a massive ammount of combination of cards and playstyles, and is mostly based around deckbuilding and managing the cards you get at a given time, tough there is a bit of randomness too it, so you might win or lose just beacuse of a diceroll.</p>
 
-    <p>Read the <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a> to learn even more about the values and principles that guide the pursuit of our mission.</p>
+    <p>Read the <a href="https://hearthstone.gamepedia.com/Hearthstone_Wiki/">Wiki</a> to learn even more about the game and what you can do in it. Its free afterall, you lose nothing by trying it.</p>
   </body>
 </html>
